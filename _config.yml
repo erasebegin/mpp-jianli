@@ -1,0 +1,68 @@
+# Site settings
+title: "毛飘飘"
+description: "毕业于浙江工商大学外国语学院本科 英语专业"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "毛飘飘"
+resume_title:                   "毕业于浙江工商大学外国语学院本科 英语专业"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "940641500@qq.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "13588250745"
+resume_contact_address:         "N/A"
+
+resume_header_contact_info:     "13588250745 • 940641500@qq.com"
+display_header_contact_info:    "true"
+
+resume_header_intro: "<p>本人工作积极向上，适应性强, 善于与人沟通。工作认真、负责，具有很强的责
+任心和进取心，并具有较强的团队合作意识。我在大学期间辅导新生英语四级等
+级考试，并多次在培训机构任职英语教师，积极参与社会实践和志愿者活动。在
+外教管理工作中脱颖而出，评为公司优秀员工。工作中我比较有耐心，善于倾
+听，与同事都能保持和谐融洽的关系，并且有良好的团队合作能力。乐于分享，
+曾给其他外教管理多次分享经验，受到肯定与好评。</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+# resume_section_education:       true
+# resume_section_projects:        true
+resume_section_skills:          true
+# resume_section_recognition:     true
+# resume_section_links:           true
+# resume_section_associations:    true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  #resume_github_url:            "https://github.com/jglovier/resume-template"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  #resume_website_url:           "http://joelglovier.com"
+  #esume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
