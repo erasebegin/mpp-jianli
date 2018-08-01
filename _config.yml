@@ -14,10 +14,10 @@ resume_name:                    "毛飘飘"
 resume_title:                   "毕业于浙江工商大学外国语学院本科 英语专业"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "940641500@qq.com"
+resume_contact_email:           " 940641500@qq.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "13588250745"
+resume_contact_telephone:       "13588250745 "
 resume_contact_address:         "N/A"
 
 resume_header_contact_info:     "13588250745 • 940641500@qq.com"
